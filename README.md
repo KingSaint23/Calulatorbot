@@ -1,5 +1,5 @@
 ### Using:   
-Console calculator on Telegram via Bot webHooks API, PHP, SSL https://t.me/calcubot   
+Console calculator on Telegram via Bot webHooks API, PHP, SSL
 ..or look for @calcubot in telegram   
 ### Creating another one. Requirements:   
 Check php version   
